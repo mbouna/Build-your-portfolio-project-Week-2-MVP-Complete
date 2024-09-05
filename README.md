@@ -53,4 +53,8 @@ Gather feedback and make final adjustments based on the input received.
 # Story:
 In the heart of the city, I discovered tranquility in a community garden. While volunteering there, I witnessed organizers struggling with event planning. Their dedication inspired me to combine my tech skills with community building. This is why I created EventPro—to streamline event planning and foster connections similar to those I experienced in the garden.
 
+![image](https://github.com/user-attachments/assets/3144f73d-d9fd-4b90-84b8-1b029fe45154)
+
+![image](https://github.com/user-attachments/assets/4a2189b5-95f9-4fff-82a6-1a8ab1777c02)
+
 
